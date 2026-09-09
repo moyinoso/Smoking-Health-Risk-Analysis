@@ -1,0 +1,130 @@
+📊 Dataset Description
+
+The dataset used for this project focuses on analyzing the relationship between lifestyle habits and health risks across a population of individuals.
+
+🔍 Key Characteristics:
+Population size: ~190+ individuals
+Data type: Cross-sectional (snapshot of individuals at a point in time)
+Focus areas:
+Demographics
+Lifestyle behavior
+Health indicators
+Risk classification
+📁 Main Variables:
+👤 Demographics
+Age (grouped into ranges like 18–28, 29–38, etc.)
+Gender
+🚬 Lifestyle Factors
+Smoking Status (Never, Current, Former)
+Smoking Duration (Years of Smoking – YOS)
+Cigarettes Per Day (CPD)
+🧪 Health Indicators
+BMI (Body Mass Index)
+Cholesterol levels
+Hypertension status
+⚠️ Risk Classification
+Health condition grouped into categories such as:
+Healthy
+Damaged
+🎯 Purpose of the Dataset
+
+The dataset is designed to:
+
+Examine how smoking behavior impacts health outcomes
+Identify high-risk groups based on age and lifestyle
+Support data-driven health insights and early risk detection
+📊 Dashboard Description
+
+The Lifestyle & Health Risk Dashboard is an interactive analytical tool built in Microsoft Power BI to explore the impact of lifestyle choices—particularly smoking—on health risk levels.
+
+🎯 Dashboard Objective
+
+To provide a visual and interactive overview of how smoking habits and demographic factors influence:
+
+Health conditions
+Risk levels
+Disease indicators
+🧩 Key Features
+📌 1. KPI Summary Section
+
+At the top, key metrics provide a quick overview:
+
+Total Patients
+Average Age
+Average BMI
+
+👉 These dynamically update based on user selections.
+
+🔘 2. Health Status Toggle
+Users can switch between:
+Damaged
+Healthy
+
+👉 This allows focused analysis on specific patient groups.
+
+📊 3. Smoking Behavior Analysis
+a. Smoking Status Distribution
+Shows proportion of:
+Never smokers
+Current smokers
+Former smokers
+b. Smoking Duration & Intake
+Compares:
+Years of smoking (YOS)
+Cigarettes per day (CPD)
+Across different age groups
+
+👉 Helps identify long-term exposure patterns.
+
+👥 4. Gender-Based Insights
+Visualizes smoking behavior differences between:
+Male
+Female
+
+👉 Highlights demographic disparities in lifestyle habits.
+
+🧪 5. Health Risk Analysis
+Displays cholesterol and hypertension risk levels
+Segmented by age group:
+Low
+Normal
+High
+
+👉 Reveals how risk increases with age and lifestyle factors.
+
+🫀 6. Interactive Organ-Based Navigation
+Vertical slicer with icons:
+Heart, Kidney, Liver, Lungs, etc.
+
+👉 Enhances user experience by allowing intuitive filtering based on body systems.
+
+🎮 Interactivity
+
+The dashboard is highly interactive:
+
+Slicers filter data dynamically
+Visuals cross-filter each other
+User selections update KPIs and charts in real time
+🎨 Design Approach
+Clean, medical-themed layout
+Central anatomical visual (heart) to emphasize health focus
+Balanced use of charts for both distribution and trend analysis
+🧠 Key Insights Delivered
+
+The dashboard enables users to:
+
+Identify high-risk age groups
+Understand the impact of smoking intensity and duration
+Compare health outcomes across gender
+Detect patterns linking lifestyle to chronic conditions
+🏁 Conclusion
+
+This dashboard transforms raw health and lifestyle data into:
+
+actionable insights for risk assessment and preventive healthcare analysis
+
+It demonstrates how interactive visualization can support:
+
+Better decision-making
+Early intervention strategies
+Deeper understanding of health trends
